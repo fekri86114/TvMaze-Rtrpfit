@@ -1,8 +1,10 @@
-package com.app.tvmaze;
+package com.app.tvmaze.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.app.tvmaze.R;
 
 public class MainActivity extends AppCompatActivity {
 
